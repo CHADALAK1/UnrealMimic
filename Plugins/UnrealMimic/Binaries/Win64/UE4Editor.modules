@@ -1,8 +1,0 @@
-{
-	"BuildId": "4212847",
-	"Modules": 
-	{
-		"UnrealMimic": "UE4Editor-UnrealMimic.dll",
-		"UnrealMimicEditor": "UE4Editor-UnrealMimicEditor.dll"
-	}
-}
